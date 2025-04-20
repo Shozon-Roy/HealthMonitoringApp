@@ -1,0 +1,13 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#c1f1e0"/>
+  <rect x="250" y="100" width="300" height="300" rx="24" ry="24" fill="#ffffff" stroke="#cccccc" stroke-width="2"/>
+  <text x="400" y="150" font-family="Arial" font-size="24" text-anchor="middle" fill="#333333">Health Monitoring App</text>
+  <rect x="270" y="170" width="260" height="50" rx="8" ry="8" fill="#00c389"/>
+  <text x="400" y="200" font-family="Arial" font-size="18" text-anchor="middle" fill="#ffffff">COVID-19 Dashboard</text>
+  <rect x="270" y="230" width="260" height="50" rx="8" ry="8" fill="#00c389"/>
+  <text x="400" y="260" font-family="Arial" font-size="18" text-anchor="middle" fill="#ffffff">Heart Monitoring</text>
+  <rect x="270" y="290" width="260" height="50" rx="8" ry="8" fill="#00c389"/>
+  <text x="400" y="320" font-family="Arial" font-size="18" text-anchor="middle" fill="#ffffff">Sleep Analysis</text>
+  <rect x="270" y="350" width="260" height="50" rx="8" ry="8" fill="#00c389"/>
+  <text x="400" y="380" font-family="Arial" font-size="18" text-anchor="middle" fill="#ffffff">Health Metrics</text>
+</svg>

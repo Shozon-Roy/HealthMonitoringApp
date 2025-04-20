@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+  }
+}
+
+/* Device frame for mobile screens */
+.device-frame {
+  width: 100%;
+  max-width: 375px;
+  min-height: 667px;
+  background-color: white;
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto;
+}
+
+/* Media queries for responsive design */
+@media (min-width: 640px) {
+  .device-frame {
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    border-radius: 24px;
+  }
+}
+
+@media (min-width: 768px) {
+  .device-frame {
+    max-width: 400px;
+  }
+}
+
+@media (min-width:.00px) {
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+}
