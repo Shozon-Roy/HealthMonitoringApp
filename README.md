@@ -2,7 +2,7 @@
 
 A responsive health monitoring application built with HTML, CSS, and JavaScript that provides comprehensive health tracking features. This application offers a user-friendly interface for monitoring various health metrics including COVID-19 statistics, heart rate data, sleep patterns, doctor information, health articles, and personal health metrics.
 
-![Health Monitoring App](screenshot.png)
+![Health Monitoring App](2cb8d3e1-07e0-4bb1-a974-ae938eab.png)
 
 ## 📱 Features
 
